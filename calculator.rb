@@ -5,5 +5,3 @@ sum = 0
 difference = 0   
 product = 0 
 quotient = 0 
-
-
