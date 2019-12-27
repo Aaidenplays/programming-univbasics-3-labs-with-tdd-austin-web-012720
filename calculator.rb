@@ -1,6 +1,6 @@
 # Add your variables here
 first_number = 10 
-second_number = 10
+second_number = 0
 describe 
 it first_number = get_variable_from_file('./calculator.rb',"first_number")
 get_variable_from_file('./calculator.rb',"first_number")
