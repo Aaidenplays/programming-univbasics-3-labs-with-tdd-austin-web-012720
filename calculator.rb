@@ -1,10 +1,10 @@
 # Add your variables here
 first_number = 10 
 second_number = 0
-sum
-difference  
-product
-quotient
+sum = 0 
+difference = 0   
+product = 0 
+quotient = 0 
 
 describe 
 it first_number = get_variable_from_file('./calculator.rb',"first_number")
